@@ -1,12 +1,6 @@
 # Front-end Vue Web Store
 
-- ### Beautiful UI
-  = I put a lot of effort into getting the design right.
-  = I did not use any sort of templates or resources besides the icons and images.
-  = I made all of the animations in plain css.
-- ### Search Features
-  = Search results that update as you type and show how many items are available.
-- ### Checkout Page
-  = Shows subtotal, shipping, tax, and final total.
-  = Ability to delete items from the cart.
-  = Ability to change quantity of items.
+![image](https://github.com/AlexVRBK/fashion-store/assets/82229268/486ca18e-a918-4e68-a5fa-6fbd0a809e86)
+
+![image](https://github.com/AlexVRBK/fashion-store/assets/82229268/a804dc95-ccc2-4b10-8c3e-021cd78d1d6d)
+
